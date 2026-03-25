@@ -82,5 +82,6 @@ Although incomplete, the recovered code still shows the intended architecture of
 
 
 ## Wiring Diagram
+![Device](images/wiring_diagram.png)
 
 ## Images
